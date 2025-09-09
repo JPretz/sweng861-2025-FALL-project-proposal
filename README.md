@@ -1,7 +1,7 @@
 echo "# 📱 SWENG 861 – Individual Course Project (Deliverable I)
-**Course:** SWENG 861, 001, FA I - 2025  
-**Assignment:** Individual Course Project - Deliverable I  
-**Student:** John Pretz  
+**Course:** SWENG 861 FALL SEMESTER- 2025  
+**Assignment:** Individual Course Project - Deliverable **Professor:**  Prof. Santosh Nalubandhu  
+**Student:** John J. Pretz  
 
 ---
 
