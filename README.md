@@ -1,7 +1,8 @@
-echo "# 📱 SWENG 861 – Individual Course Project (Deliverable I)
-**Course:** SWENG 861 FALL SEMESTER- 2025  
-**Assignment:** Individual Course Project - Deliverable **Professor:**  Prof. Santosh Nalubandhu  
-**Student:** John J. Pretz  
+# 📱 SWENG 861 – Individual Course Project (Deliverable I)
+**Course:** SWENG 861, 001, FA I - 2025  
+**Assignment:** Individual Course Project - Deliverable I
+**Professor:**  Santosh Nalubandhu 
+**Student:** John Pretz  
 
 ---
 
@@ -23,15 +24,14 @@ Key features include:
 ---
 
 ## 📂 Repository Contents
-- /docs → Project Proposal (Word/PDF) + Milestones document  
-- /architecture → Architecture and workflow diagrams  
-- README.md → Summary and submission details  
+- `/docs` → Project Proposal (Word/PDF) + Milestones document  
+- `/architecture` → Architecture and workflow diagrams  
+- `README.md` → Summary and submission details  
 
 ---
 
 ## 🔮 Future Deliverables
 Subsequent deliverables will expand this repo with:
-- Source code (/src) for the mobile app  
+- Source code (`/src`) for the mobile app  
 - Deployment instructions (Expo, Firebase setup)  
 - Final report & presentation slides  
-" > README.md
