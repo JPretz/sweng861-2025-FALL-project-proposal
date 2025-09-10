@@ -35,3 +35,15 @@ Subsequent deliverables will expand this repo with:
 - Source code (`/src`) for the mobile app  
 - Deployment instructions (Expo, Firebase setup)  
 - Final report & presentation slides  
+
+## 📂 Documents
+
+- [Project Milestones (Excel)](doc/Project_Milestones.xlsx)
+- [Project Proposal (PDF)](doc/John_Pretz_SWENG861_Project_Proposal.pdf)
+- [Project Proposal (Word)](doc/John_Pretz_SWENG861_Project_Proposal.docx)
+- [App Workflow Diagram (PDF)](doc/app_workflow.pdf)
+- [App Workflow with Steps (PDF)](doc/app_workflow_with_steps.pdf)
+
+## 📂 Architecture
+
+- [Workflow Diagram (PowerPoint)](architecture/workflow_diagram.pptx)
